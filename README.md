@@ -1,5 +1,7 @@
 # Wp-Brute4C
-Tools WordPress Brute Force Adalah Sebuah Tools Yang Memungkinkan Penggunanya Tidak Lagi Keram Jari Disaat Menebak Kata Sandi.
+Tools WordPress Brute Force 
+  Adalah Sebuah Tools Yang Memungkinkan Penggunanya 
+Tidak Lagi Keram Jari Disaat Menebak Kata Sandi.
 
 # Instalasi Yang Dibutuhkan 
 $ pkg udate && pkg upgrade
